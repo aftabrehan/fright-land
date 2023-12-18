@@ -20,25 +20,5 @@ The landing page for a Horror show has been developed using HTML and Bootstrap a
 
 <hr />
 
-### Getting Started
-
-1. Clone the repository.
-
-```
-git clone https://github.com/aftabrehan/fright-land
-```
-
-2. Install the required dependencies.
-
-```
-yarn
-```
-
-3. Start the development server.
-
-```
-yarn dev
-```
-
 > [!NOTE]
 > This project is created solely for portfolio purposes, and you are free to use it as you see fit.
